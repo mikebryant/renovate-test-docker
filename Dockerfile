@@ -1,1 +1,1 @@
-FROM weaveworks/weave:2.4.1
+FROM weaveworks/weave:2.4.1@sha256:3b860464ce490ea3a6cb28b43b0c65f4ebdd89f767c189048458998c6cee59d9
