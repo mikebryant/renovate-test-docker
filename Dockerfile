@@ -1,4 +1,4 @@
-FROM weaveworks/weave:2.4.1@sha256:ec7b07a3d644e4dd50ebb011b35e310de9bb8f823371847f04672ded670f6a6d
+FROM weaveworks/weave:2.4.1@sha256:3b860464ce490ea3a6cb28b43b0c65f4ebdd89f767c189048458998c6cee59d9
 
 FROM python:3.6.7-alpine3.8@sha256:dbd3634dba450130634349beb2464a0da7ac6f7ee0a2b06a3ae75a10c268eeb5
 
